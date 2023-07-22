@@ -1,5 +1,7 @@
 # Zero Lookahead? Zero Problem. The Window Racer Algorithm
 
+![Window Racer animation](animation.gif)
+
 This is an implementation of the Window Racer algorithm for optimistic parallel discrete-event simulation.
 
 As an example model, the repository contains the PHold benchmark model extended by events with near-zero delay.
